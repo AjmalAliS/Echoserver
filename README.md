@@ -128,10 +128,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 ## OUTPUT:
 
-/home/kali/eth/ex1/Echoserver/Screenshot_2025-08-10_23_16_49.png
-
-/home/kali/eth/ex1/Echoserver/Screenshot_2025-08-10_23_17_00.png
-
+[!ex1 1](ex1 1.png)
+[!ex1 2](ex1 2.png)
 
 ## RESULT:
 The program is executed succesfully
