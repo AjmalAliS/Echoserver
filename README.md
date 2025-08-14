@@ -128,8 +128,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 ## OUTPUT:
 
-[!ex1 1](,/ex1 1.png)
-[!ex1 2](./ex1 2.png)
+[!ex11](,/ex11.png)
+[!ex12](./ex12.png)
 
 ## RESULT:
 The program is executed succesfully
