@@ -128,8 +128,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 ## OUTPUT:
 
-[!ex11](,/ex11.png)
-[!ex12](./ex12.png)
+<img width="1629" height="897" alt="Screenshot 2025-08-14 091654" src="https://github.com/user-attachments/assets/cfa92a70-1260-4e5e-a9ea-01d9bbc26d0b" />
+<img width="1633" height="899" alt="Screenshot 2025-08-14 091723" src="https://github.com/user-attachments/assets/37b3917a-e34d-47e1-b13c-341a45d8b316" />
 
 ## RESULT:
 The program is executed succesfully
